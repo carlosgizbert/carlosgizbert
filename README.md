@@ -1,20 +1,52 @@
-## Olá, sou o Carlos Gizbert
+## Olá, sou o Carlos Gizbert, tenho 23 anos, sou UX Designer migrando para fullstack :)
+<table align="center">
+  <tr align="left">
+    <th>🚀 Estudando: </th>
+    <td>
+      Javascript e Java
+    </td>
+      </tr>
+  <tr align="left">
+    <th>🎓 Formação</th>
+    <td>
+      Sistemas de Informação
+    </td>
+  </tr>
+  <tr align="left">
+    <th>⚡ Nas horas vagas...</th>
+      <td>
+    Produzo música eletrônica
+    </td>
+   </tr>
+  <tr align="left">
+    <th>👨‍💻 Trabalho atual</th>
+    <td>
+      UX/UI designer há 2 anos
+    </td>
+  </tr>
+</table>
 
-- 🚀 estudando: javascript e java
-- 🎓 formação: Sistemas de Informação
-- 👨‍💻 atualmente: trabalho como product designer a 2 anos
-- ⚡ Curto produzir música eletrônica
+##
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/carlosgizbert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgizbert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgizbert&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Gizbert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gizbert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gizbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
+  ##
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gizbert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:carlosgizbert@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/carlosgizbert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
