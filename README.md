@@ -1,7 +1,7 @@
 ## Olá, sou o Carlos Gizbert, tenho 23 anos, sou UX Designer migrando para fullstack :)
 <table align="center">
   <tr align="left">
-    <th>🚀 Estudando: </th>
+    <th>🚀 Estudando</th>
     <td>
       Javascript e Java
     </td>
@@ -13,15 +13,15 @@
     </td>
   </tr>
   <tr align="left">
-    <th>⚡ Nas horas vagas...</th>
-      <td>
-    Produzo música eletrônica
-    </td>
-   </tr>
-  <tr align="left">
     <th>👨‍💻 Trabalho atual</th>
     <td>
       UX/UI designer há 2 anos
+    </td>
+   </tr>
+  <tr align="left">
+        <th>⚡ Nas horas vagas...</th>
+      <td>
+    Produzo música eletrônica
     </td>
   </tr>
 </table>
