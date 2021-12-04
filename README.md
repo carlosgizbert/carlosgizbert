@@ -1,4 +1,4 @@
-## Olá, sou o Carlos Gizbert, tenho 23 anos, um UX/UI migrando para fullstack :)
+## Olá, é bom ver você aqui :)
 <table>
   <tr align="left">
     <th>🚀 Estudando</th>
