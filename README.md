@@ -1,4 +1,4 @@
-## Olá, é bom ver você aqui :)
+## Olá, obrigado pela sua visita :)
 <table>
   <tr align="left">
     <th>🚀 Estudando</th>
