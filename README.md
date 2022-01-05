@@ -1,9 +1,9 @@
 ## Olá, obrigado pela sua visita :)
 <table>
   <tr align="left">
-    <th>🚀 Estudando</th>
+    <th>🚀 Linguagens</th>
     <td>
-      Javascript e Java
+      Javascript, Java e C#
     </td>
       </tr>
   <tr align="left">
