@@ -21,7 +21,7 @@
   <tr align="left">
         <th>⚡ Nas horas vagas...</th>
       <td>
-    Produzo música eletrônica
+    Cuido da família
     </td>
   </tr>
 </table>
