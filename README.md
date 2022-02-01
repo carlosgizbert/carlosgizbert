@@ -1,54 +1,7 @@
-## Olá, obrigado pela sua visita :)
-<table>
-  <tr align="left">
-    <th>🚀 Linguagens</th>
-    <td>
-      Javascript, Java e C#
-    </td>
-      </tr>
-  <tr align="left">
-    <th>🎓 Formação</th>
-    <td>
-      Sistemas de Informação
-    </td>
-  </tr>
-  <tr align="left">
-    <th>👨‍💻 Trabalho atual</th>
-    <td>
-      UX/UI designer há 2 anos
-    </td>
-   </tr>
-  <tr align="left">
-        <th>⚡ Nas horas vagas...</th>
-      <td>
-    Cuido da família
-    </td>
-  </tr>
-</table>
 
-##
+<a href="https://www.linkedin.com/in/gizbert" target="_blank"><img src="https://camo.githubusercontent.com/7653fa550ec62234e511e45e50206a020518907e399becbab494a31541e34e24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f726562656363616d616e7a692f" target="_blank"></a> 
+<a href = "mailto:carlosgizbert@gmail.com"><img src="https://camo.githubusercontent.com/ec94fc9cd6d7d2d4e5a22b1c4c15dd8213a08450572046d1227fc2e11e12e25a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a726562656363616d616e7a6940676d61696c2e636f6d" target="_blank"></a>
+<a href="https://instagram.com/carlosgizbert" target="_blank"><img src="https://camo.githubusercontent.com/102f446542909313a410ae458adf15f3266fdfd34e84560477b236b771086cf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4331333538343f7374796c653d666c6174266c6162656c436f6c6f723d433133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f636f64657077722f" target="_blank"></a>
 
-<div align="left">
-  <a href="https://github.com/carlosgizbert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgizbert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgizbert&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-
-</div>
-<div align="left" style="display: inline_block"><br>
-  <img alt="Gizbert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Gizbert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Gizbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/gizbert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosgizbert@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/carlosgizbert" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-![Snake animation](https://github.com/carlosgizbert/carlosgizbert/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+### Quero resolver problemas que afetem o máximo de vidas possível. 
+Antes de me tornar desenvolvedor, iniciei minha carreira como Product Designer, e isso me ajudou a ter um olhar aguçado às pessoas, experiência de uso e escalabilidade dos projetos, portanto, busco sentido por trás de todo código que crio, e caso eu não saiba de um eu descubro onde encontrá-lo.
