@@ -5,3 +5,4 @@
 
 ### Que meu código melhore o mundo.
 Iniciei minha carreira como Product Designer, isso aguçou meu olhar às pessoas, experiência de uso e escalabilidade dos projetos, portanto, hoje, busco sentido por trás de todo código que crio, e caso eu não saiba de um, descubro onde encontrá-lo.
+⚡
